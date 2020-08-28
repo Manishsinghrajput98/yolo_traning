@@ -1,0 +1,5 @@
+Please change the paths according your system, you need to follow this file, folder structure.
+/home/rajput/Desktop/yolo_traning/task.cfg   configuration files if you face any error so please decrease the batch size, line 22 for number of steps.
+/home/rajput/Desktop/yolo_traning/task.data  paths of train and validation images and number of class
+/home/rajput/Desktop/yolo_traning/task.names  class name
+/home/rajput/Desktop/yolo_traning/pretrained_model.txt   for model downlaod 

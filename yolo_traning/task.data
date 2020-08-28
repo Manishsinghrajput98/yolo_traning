@@ -1,0 +1,7 @@
+classes= 1
+train  = /content/darknet/yolo_training/train.txt
+valid =  /content/darknet/yolo_training/test.txt
+names =  /content/darknet/yolo_training/task.names
+backup = /content/darknet/yolo_training/backup
+
+eval=coco
